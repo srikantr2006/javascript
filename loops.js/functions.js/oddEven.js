@@ -16,3 +16,4 @@ const result=(a) => {
 
 }
 result(15);
+console.log(hgvhgv);
